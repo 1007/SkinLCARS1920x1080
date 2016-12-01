@@ -1,0 +1,14 @@
+{
+    "author": "Juergen Gerharz",
+    "version": "0.1a",
+    "compatible": 1,
+    "url": "http:\/\/www.ip-symcon.de\/forum\/",
+    "git": "http:\/\/www.github.com\/johnDoe\/notfound\/",
+    "icons": [
+        "OfenAufladungLeer",
+        "Return11",
+        "Return2",
+        "Return32",
+        "Warning1"
+    ]
+}
